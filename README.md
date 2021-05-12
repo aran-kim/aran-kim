@@ -1,7 +1,9 @@
 # ARAN-KIM Git
 
-## Hi (안녕) 
+### Hi 
+### I'm ARAN-Kim 
+#
 
-## I'm ARAN-Kim (난 김아란)
+## Algorithm Study
+### Baekjoon
 
-## nice to meet you~ (만나서 만가워)
